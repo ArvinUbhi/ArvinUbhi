@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/ArvinUbhi/me.io" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://arvinubhi.github.io/me.io/" target="blank">
 Arvin</a></h1>
 <h3 align="center">A passionate software developer from London, UK.</h3>
 
